@@ -1,0 +1,82 @@
+[
+    {
+        "ip": "121.1.140.203",
+        "city": "Kesennuma",
+        "region": "Miyagi",
+        "country": "Japan",
+        "latitude": 38.9011,
+        "longitude": 141.577,
+        "isp": "ASAHI Net, Inc.",
+        "timezone": "Asia/Tokyo"
+    },
+    {
+        "ip": "153.142.247.172",
+        "city": "Obata",
+        "region": "Gunma",
+        "country": "Japan",
+        "latitude": 36.253,
+        "longitude": 138.878,
+        "isp": "NTT Communications Corporation",
+        "timezone": "Asia/Tokyo"
+    },
+    {
+        "ip": "211.120.225.203",
+        "city": "Chiyoda",
+        "region": "Tokyo",
+        "country": "Japan",
+        "latitude": 35.6916,
+        "longitude": 139.768,
+        "isp": "Okinawa Telecommunication Network Co., Inc",
+        "timezone": "Asia/Tokyo"
+    },
+    {
+        "ip": "124.41.81.174",
+        "city": "Chiyoda",
+        "region": "Tokyo",
+        "country": "Japan",
+        "latitude": 35.6989,
+        "longitude": 139.744,
+        "isp": "Internet Initiative Japan Inc.",
+        "timezone": "Asia/Tokyo"
+    },
+    {
+        "ip": "153.142.26.163",
+        "city": "Obata",
+        "region": "Gunma",
+        "country": "Japan",
+        "latitude": 36.253,
+        "longitude": 138.878,
+        "isp": "NTT Communications Corporation",
+        "timezone": "Asia/Tokyo"
+    },
+    {
+        "ip": "210.157.82.58",
+        "city": "Ibara",
+        "region": "Okayama",
+        "country": "Japan",
+        "latitude": 34.5881,
+        "longitude": 133.4576,
+        "isp": "Ibara Broadcasting Company",
+        "timezone": "Asia/Tokyo"
+    },
+    {
+        "ip": "106.219.161.151",
+        "city": "New Delhi",
+        "region": "National Capital Territory of Delhi",
+        "country": "India",
+        "latitude": 28.652,
+        "longitude": 77.1663,
+        "isp": "Bharti Airtel",
+        "timezone": "Asia/Kolkata"
+    },
+    {
+        "ip": "58.94.98.44",
+        "city": "Osaka",
+        "region": "Osaka",
+        "country": "Japan",
+        "latitude": 34.6937,
+        "longitude": 135.502,
+        "isp": "NTT Communications Corporation",
+        "timezone": "Asia/Tokyo"
+    }
+]
